@@ -9,7 +9,7 @@ def PedirMinTerms():
 
 def AlmacenarMinTerms(cadena_ejemplo):
     numeros = []  
-    numero_temporal = "dasdsadasd"  
+    numero_temporal = ""  
 
     for caracter in cadena_ejemplo:
         if caracter.isdigit():
